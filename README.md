@@ -1,9 +1,9 @@
 # Hospitality-Analysis
-Problem Statement:
+**Problem Statement:**
 AtliQ Grand owns mulitple 5 star hotels across india. They have been in the hospitality domain for the past 20 years.
 Due to strategic moves from other competitors and ineffective decision making in management, AtliQ Grand losing its market share and revenue.
 
-Solution: 
+****Solution: ****
 Analyze different metrics like revenue, average rating, bookings percentage by time period, and etc.
 The Power BI dashboards empower hotel management to make informed decision on resource allocation and pricing strategy, 
 there by enhancing operational efficiency and profitability.
